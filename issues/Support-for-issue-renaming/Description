@@ -1,0 +1,3 @@
+Currently (git only) when issue is renamed two issues will be contained in commit message:
+prev and new names. It will be better to add new group:
+    Rename issue-1 to issue-2
