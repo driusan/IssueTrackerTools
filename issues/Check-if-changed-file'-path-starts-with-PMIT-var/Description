@@ -1,0 +1,2 @@
+We should check (there is TODO section in code) if file reported by git status is under issues/ ($PMIT env var) directory
+before we assume that it is issue :)
